@@ -4,4 +4,5 @@
 4. The python version of the virtual environment is   	3.5.2 whereas the not virtual environment is 2.7.12
 5. 301 Moved; http://www.google.com/
 6. 301 Moved; curl -i; Error 418
-7. 
+7. MiniFieldStorage('X', 'Y'); we can use -X to define which kind of request to send
+8. 
