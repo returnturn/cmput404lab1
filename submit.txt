@@ -1,0 +1,7 @@
+1. https://github.com/returnturn
+2. 3.5.2
+3. 2.22.0
+4. The python version of the virtual environment is   	3.5.2 whereas the not virtual environment is 2.7.12
+5. 301 Moved; http://www.google.com/
+6. 301 Moved; curl -i; Error 418
+7. 
